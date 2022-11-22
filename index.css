@@ -1,0 +1,28 @@
+body {
+    background:url('https://th.bing.com/th/id/OIP.ze9m8u69YF3eyxGVP3DADAHaE7?pid=ImgDet&rs=1');
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+     
+} 
+#container{
+    
+    background:black;
+    width: 500px;
+    color: white;
+    padding: 15px;
+}
+h1{
+    font-size: 50px;
+    color: aliceblue;
+}
+h2{
+    font-size: 30px;
+    background: blue;
+    color: white;
+    padding: 5px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
